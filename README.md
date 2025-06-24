@@ -6,7 +6,7 @@ I enjoy working on Python projects, especially those involving data and automati
 - 🔭 I’m currently working on: [Tashkent house prediction model](#)
 - 🌱 Learning: Deep Learning, FastAPI, Docker
 - 💞️ Looking to collaborate on beginner-friendly ML & backend projects
-- 📫 Reach me via: [Telegram](https://t.me/doksbroo) • [Email](mailto:ubaydullayevdoston607@gmail.com)
+- 📫 Reach me via: [Telegram](https://t.me/doksbroo) • [Email](mailto:ubaydullayevdoston607@gmail.com) [LinkedIn](https://www.linkedin.com/in/doston-ai)
 - ⚡ Fun fact: I love visualizing data as art 📊🎨
 
 <!---
