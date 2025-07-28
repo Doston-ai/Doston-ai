@@ -3,7 +3,7 @@
 I'm currently learning Data Science and Backend Development  
 I enjoy working on Python projects, especially those involving data and automation.
 
-- 🔭 I’m currently working on: [Tashkent house prediction model](#)
+- 🔭 I’m currently working on: Machine Learning and Deep Learning projects
 - 🌱 Learning: Deep Learning, FastAPI, Docker
 - 💞️ Looking to collaborate on beginner-friendly ML & backend projects
 - 📫 Reach me via: [Telegram](https://t.me/doksbroo) , [Email](mailto:ubaydullayevdoston607@gmail.com) , [LinkedIn](https://www.linkedin.com/in/doston-ai)
